@@ -1,0 +1,53 @@
+.mat-toolbar {
+    margin: 0;
+    padding: 0;
+    background-color:yellow;
+    overflow:auto;
+
+}
+.material-icons mdc-top-app-bar__navigation-icon mdc-icon-button {
+    border: grey;
+    margin: 0 20px;
+    background-color: turquoise;
+
+}
+.titletext {
+
+    margin: 0 auto;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;    
+}
+.search {
+    border: 1px;
+    background: white;
+}
+.search_input{
+    margin: 0 auto;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    border: radius 50%;
+}
+/* .material-icons {
+    margin-bottom: auto;
+    color:grey;
+    cursor: pointer;
+    outline: none;
+    float: right;
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+} */
+.button {
+    position: absolute;
+    top: 20px;
+    bottom: 0;
+    right: 0;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
