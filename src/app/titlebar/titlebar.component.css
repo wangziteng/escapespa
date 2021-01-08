@@ -32,16 +32,6 @@
     position: relative;
     border: radius 50%;
 }
-/* .material-icons {
-    margin-bottom: auto;
-    color:grey;
-    cursor: pointer;
-    outline: none;
-    float: right;
-    border: none;
-    border-radius: 20px;
-    position: absolute;
-} */
 .button {
     position: absolute;
     top: 20px;
