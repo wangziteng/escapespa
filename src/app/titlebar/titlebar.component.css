@@ -2,7 +2,7 @@
     background-color:yellow;
     overflow:auto;
     display: grid;
-    grid-template-columns: 10% 60% 30%;
+    grid-template-columns: 5% 80% 15%;
    
 }
 .material-icons mdc-top-app-bar__navigation-icon mdc-icon-button {
@@ -18,16 +18,18 @@
 .search {
     border: 1px;
     background-color: yellow;
-    vertical-align: top;
     display: grid;
     grid-template-columns:80% 20%;
 }
 .search_input{ 
+    margin: 0 auto;
     border-radius: 10px;
     border: none; 
+    
 }
 .button{
+    margin-left: -35px;
+    
     cursor: pointer;
-    float: left;
     margin-top: 8px;
 }
