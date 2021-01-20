@@ -1,0 +1,25 @@
+
+.main {
+    max-width: 936px;
+    margin: 0 auto;
+}
+button {
+    outline: none;
+    background-color: transparent;
+    border: 0;
+    margin-right: 7%;
+    color: rgb(171 160 160);
+}
+mat-toolbar-row {
+    padding: 0;
+}
+.mat-toolbar-rowy {
+    height: 35px;
+}
+.x {
+    color: black;
+}
+button:hover,
+span :hover {
+     color: black;
+}
